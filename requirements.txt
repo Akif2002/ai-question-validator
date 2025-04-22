@@ -1,11 +1,3 @@
-pandas
-numpy
-scikit-learn
-transformers
-joblib
-torch
-language_tool_python
-reportlab
 streamlit
 PyPDF2
 pytesseract
